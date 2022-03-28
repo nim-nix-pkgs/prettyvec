@@ -11,7 +11,6 @@
   inputs.src-prettyvec-main.ref   = "refs/heads/main";
   inputs.src-prettyvec-main.owner = "prettybauble";
   inputs.src-prettyvec-main.repo  = "prettyvec";
-  inputs.src-prettyvec-main.dir   = "";
   inputs.src-prettyvec-main.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
