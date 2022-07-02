@@ -45,11 +45,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1656298014,
-        "narHash": "sha256-BpCBM1bMr2//uWfn+YGO30aYNYv3ZHLLg8sR/tIZJR0=",
+        "lastModified": 1656301175,
+        "narHash": "sha256-svaD1PhftsPYv7JpzFUUkS+N2xFd5mJholVI/HxHnTI=",
         "owner": "nim-nix-pkgs",
         "repo": "prettyvec",
-        "rev": "afe8c0414158ca57774fa7d5fdf144956eea246c",
+        "rev": "df9fe221be03e0678a2a3b53c587304a7e4e0c2d",
         "type": "github"
       },
       "original": {
